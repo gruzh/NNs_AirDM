@@ -1,4 +1,4 @@
-# Training threshold Boolean networks: applications to gene regulatory network modeling
+# Using neural networks as an alternative to air dispersion modeling in environmental impact assessment
 
 This repository contains the official dataset for the paper [Using neural networks as an alternative to air dispersion modeling in environmental impact assessment]()
 

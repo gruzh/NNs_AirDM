@@ -3,10 +3,11 @@
 This repository contains the official dataset for the paper [Using neural networks as an alternative to air dispersion modeling in environmental impact assessment]()
 
 Author: 
+[Mateo Concha](https://www.researchgate.net/profile/Mateo-Concha)<sup>1</sup>, &nbsp; 
 [Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3,4</sup>, &nbsp;
 
-<sup>1</sup> Faculty of Engineering and Sciences, University Adolfo Ibáñez, Santiago, Chile. <br>
-<sup>2</sup> Millennium Nucleus in Data Science for Plant Resilience (PhytoLearning), Santiago, Chile. <br>
+<sup>1</sup> Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Santiago, Chile. <br>
+<sup>2</sup> Millennium Nucleus for Social Data Science (SODAS), Santiago, Chile. <br>
 <sup>3</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
 <sup>4</sup> Data Observatory Foundation, Santiago, Chile. <br>
 

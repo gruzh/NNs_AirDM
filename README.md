@@ -11,7 +11,7 @@ This repository contains the official dataset and code used for the development 
 <sup>3</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
 <sup>4</sup> Data Observatory Foundation, Santiago, Chile. <br>
 
-## Brief desription of this research
+## Brief description of this research
 This study explores key concepts related to air quality, atmospheric emission modeling,
 and the critical parameters involved in pollutant dispersion analysis. Emission, meteorological, and
 stack data were collected from official, private, and public sources. We compare the performance of the

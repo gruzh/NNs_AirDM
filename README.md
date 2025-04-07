@@ -31,7 +31,7 @@ FB210005, BASAL funds for centers of excellence from ANID-Chile.
 * Tensorflow >= 2.13.1
 
 ## Datasets and script
-The dataset is located in [Dataset](https://github.com/gruzh/NNs_AirDM/tree/main/Dataset) folder and the code in [Script](https://github.com/gruzh/NNs_AirDM/tree/main/Script) folder.
+The dataset is located in the [Dataset](https://github.com/gruzh/NNs_AirDM/tree/main/Dataset) folder and the code in the [Script](https://github.com/gruzh/NNs_AirDM/tree/main/Script) folder.
 
 ## Citation
 

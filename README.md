@@ -30,8 +30,8 @@ FB210005, BASAL funds for centers of excellence from ANID-Chile.
 * Scikit-learn
 * Tensorflow >= 2.13.1
 
-## Datasets
-The dataset is located in 
+## Datasets and script
+The dataset is located in [Dataset](https://github.com/gruzh/NNs_AirDM/tree/main/Dataset) folder and the code in [Script](https://github.com/gruzh/NNs_AirDM/tree/main/Script) folder.
 
 ## Citation
 

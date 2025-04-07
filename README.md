@@ -2,7 +2,7 @@
 
 This repository contains the official dataset and code used for the development of the paper [Using neural networks as an alternative to air dispersion modeling in environmental impact assessment]()
 
-## Authors: 
+## Authors
 [Mateo Concha](https://www.researchgate.net/profile/Mateo-Concha)<sup>1</sup>, &nbsp; 
 [Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3,4</sup>, &nbsp;
 

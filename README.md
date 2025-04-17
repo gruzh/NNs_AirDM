@@ -14,13 +14,13 @@ This project explores the use of neural networks (NNs) as an alternative to trad
 
 ## Dataset Information
 - **Location**: `Dataset/` folder
-- **Content**: Emission data, meteorological data, and stack parameters from official, private, and public sources related to the Mejillones industrial area.
+- **Content**: Emission data, meteorological data, and stack parameters from official, private, and public sources related to the Mejillones industrial area in Chile.
 - **Format**: CSV files
 
 ## Code Information
 - **Location**: `Script/` folder
 - **Main script**:
-  - `main.py`: Data preprocessing, neural network model building and training, and model evaluation on FFEE and CV datasets.
+  - `main.py`: Data preprocessing, neural network model building and training, and model evaluation on FFEE (Ferrocarriles monitoring station) and CV (Cactus Gaviotin monitoring station) datasets.
 
 ## Usage Instructions
 

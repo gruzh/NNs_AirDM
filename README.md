@@ -48,7 +48,7 @@ This project explores the use of neural networks (NNs) as an alternative to trad
 * Tensorflow >= 2.13.1
 
 ## Methodology
-//- **Data Collection**: Emission, meteorological, and operational data were collected from various sources.
+<!-- - **Data Collection**: Emission, meteorological, and operational data were collected from various sources. -->
 - **Data Preprocessing**: Normalization, and preparation for modeling.
 - **Model Training**: Neural networks were trained on historical data to predict SO₂ concentrations.
 - **Comparison**: Model outputs were compared against the SO₂ from the FFEE and CV datasets using performance metrics.

@@ -1,7 +1,5 @@
 # Using neural networks as an alternative to air dispersion modeling in environmental impact assessment
 
-This repository contains the official dataset and code used for the development of the paper [Using neural networks as an alternative to air dispersion modeling in environmental impact assessment]()
-
 ## Authors
 [Mateo Concha](https://www.researchgate.net/profile/Mateo-Concha)<sup>1</sup>, &nbsp; 
 [Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3,4</sup>, &nbsp;
@@ -11,52 +9,58 @@ This repository contains the official dataset and code used for the development 
 <sup>3</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
 <sup>4</sup> Data Observatory Foundation, Santiago, Chile. <br>
 
-## Brief description of this research
-This study explores key concepts related to air quality, atmospheric emission modeling,
-and the critical parameters involved in pollutant dispersion analysis. Emission, meteorological, and
-stack data were collected from official, private, and public sources. We compare the performance of the
-CALPUFF dispersion model with a neural network-based approach for predicting SO2 concentration
-in the Industrial Bay of Mejillones, Chile.
+## Description
+This project explores the use of neural networks (NNs) as an alternative to traditional air dispersion models for environmental impact assessments. We compare the CALPUFF dispersion model against neural network-based predictions of SO₂ concentrations in the Industrial Bay of Mejillones, Chile.
 
-## Acknowledgments
-This work was supported in part by ANID TDP220017, ANID FONDECYT 1230315, ANID-MILENIO
-NCN2024 103, ANID PIA/BASAL AFB240003, and Centro de Modelamiento Matem´atico (CMM)
-FB210005, BASAL funds for centers of excellence from ANID-Chile.
+## Dataset Information
+- **Location**: `Dataset/` folder
+- **Content**: Emission data, meteorological data, and stack parameters from official, private, and public sources related to the Mejillones industrial area.
+- **Format**: CSV files
+
+## Code Information
+- **Location**: `Script/` folder
+- **Main scripts**:
+  - `data_preprocessing.py`: Preprocessing steps for dataset preparation
+  - `model_training.py`: Neural network model building and training
+  - `model_evaluation.py`: Evaluation and comparison with CALPUFF results
+
+## Usage Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gruzh/NNs_AirDM.git
+   ```
+
+2. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   (Alternatively, install manually: `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`)
+
+3. Run the main script:
+   ```bash
+   python Script/main.py
+   ```
 
 ## Requirements
 * Python >= 3.10.11
-* Pandas
-* Matplotlib
-* Scikit-learn
+* Pandas >= 1.5.3
+* Matplotlib >= 3.7.1
+* Scikit-learn >= 1.2.2
 * Tensorflow >= 2.13.1
 
-## Datasets and script
-The dataset is located in the [Dataset](https://github.com/gruzh/NNs_AirDM/tree/main/Dataset) folder and the code in the [Script](https://github.com/gruzh/NNs_AirDM/tree/main/Script) folder.
+## Methodology
+- **Data Collection**: Emission, meteorological, and operational data were collected from various sources.
+- **Data Preprocessing**: Normalization, and preparation for modeling.
+- **Model Training**: Neural networks were trained on historical data to predict SO₂ concentrations.
+- **Comparison**: Model outputs were compared against the SO₂ from the FFEE and CV datasets using performance metrics.
 
-## Citation
+## Citations
+If you use this code or data, please cite:
+> Mateo Concha, Gonzalo A. Ruz. *Using neural networks as an alternative to air dispersion modeling in environmental impact assessment*. (Submitted to PeerJ Computer Science, 2025)
 
-
-<!---
-## Setup
-
-<div>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img style="vertical-align:middle"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-    <span> Python 3 </span> 
-</div>
-
-
-
-
-
-## Usage
-
-
-## Citation
-If you find this code or paper useful, please use the following reference:
-```
-@article{
-    
-}
-```
-
--->
+## License
+This project is licensed under the [MIT License](LICENSE).
+ 
+## Contribution Guidelines
+Contributions are welcome! Feel free to submit pull requests or suggest improvements via issues.

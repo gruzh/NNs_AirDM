@@ -19,10 +19,8 @@ This project explores the use of neural networks (NNs) as an alternative to trad
 
 ## Code Information
 - **Location**: `Script/` folder
-- **Main scripts**:
-  - `data_preprocessing.py`: Preprocessing steps for dataset preparation
-  - `model_training.py`: Neural network model building and training
-  - `model_evaluation.py`: Evaluation and comparison with CALPUFF results
+- **Main script**:
+  - `main.py`: Data preprocessing, neural network model building and training, and model evaluation on FFEE and CV datasets.
 
 ## Usage Instructions
 

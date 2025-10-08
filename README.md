@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/947621770.svg)](https://doi.org/10.5281/zenodo.17295497)
+
 # Using neural networks as an alternative to air dispersion modeling in environmental impact assessment
 
 ## Authors

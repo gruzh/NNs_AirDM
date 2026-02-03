@@ -39,11 +39,12 @@ This project explores the use of neural networks (NNs) as an alternative to trad
    ```
    (Alternatively, install manually: `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`)
 
-3. Run the main script:
+3. Run the main script using Jupyter notebook, JupyterLab or VSCode.
+<!--
    ```bash
    python Script/main.py
    ```
-
+-->
 ## Requirements
 * Python >= 3.10.11
 * Pandas >= 1.5.3

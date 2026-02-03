@@ -21,8 +21,10 @@ This project explores the use of neural networks (NNs) as an alternative to trad
 
 ## Code Information
 - **Location**: `Script/` folder
-- **Main script**:
-  - `main.py`: Data preprocessing, neural network model building and training, and model evaluation on FFEE (Ferrocarriles monitoring station) and CV (Cactus Gaviotin monitoring station) datasets.
+- **Script files**:
+  - `NN.ipynb`: Data preprocessing, neural network model building and training, and model evaluation on FFEE (Ferrocarriles monitoring station) and CV (Cactus Gaviotin monitoring station) datasets.
+  - `Random_Forest_Regressor_(RFR).ipynb`: process similar to NN, but using the Random Forest Regressor.
+  - `Support Vector Regressor (SVR).ipynb`: process similar to NN, but using the Support Vector Regressor.
 
 ## Usage Instructions
 

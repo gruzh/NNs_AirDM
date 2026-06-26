@@ -2,6 +2,8 @@
 
 # Using neural networks as an alternative to air dispersion modeling in environmental impact assessment
 
+This repository contains the official code for the paper [Using neural networks as an alternative to air dispersion modeling in environmental impact assessment](https://peerj.com/articles/cs-3817/)
+
 ## Authors
 [Mateo Concha](https://www.researchgate.net/profile/Mateo-Concha)<sup>1</sup>, &nbsp; 
 [Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3,4</sup>, &nbsp;
@@ -60,7 +62,7 @@ This project explores the use of neural networks (NNs) as an alternative to trad
 
 ## Citations
 If you use this code or data, please cite:
-> Mateo Concha, Gonzalo A. Ruz. *Using neural networks as an alternative to air dispersion modeling in environmental impact assessment*. (Submitted to PeerJ Computer Science, 2025)
+> Concha M, Ruz GA. 2026. Using neural networks as an alternative to air dispersion modeling in environmental impact assessment. PeerJ Computer Science 12:e3817 https://doi.org/10.7717/peerj-cs.3817
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

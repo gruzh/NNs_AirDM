@@ -10,8 +10,8 @@ This repository contains the official code for the paper [Using neural networks 
 
 <sup>1</sup> Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Santiago, Chile. <br>
 <sup>2</sup> Millennium Nucleus for Social Data Science (SODAS), Santiago, Chile. <br>
-<sup>3</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
-<sup>4</sup> Data Observatory Foundation, Santiago, Chile. <br>
+<sup>3</sup> Millennium Nucleus in Data Science for Plant Resilience (PhytoLearning), Santiago, Chile. <br>
+<sup>4</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
 
 ## Description
 This project explores the use of neural networks (NNs) as an alternative to traditional air dispersion models for environmental impact assessments. We compare the CALPUFF dispersion model against neural network-based predictions of SO₂ concentrations in the Industrial Bay of Mejillones, Chile.
